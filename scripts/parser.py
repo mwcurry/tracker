@@ -2,7 +2,6 @@ import os
 import re
 import nltk
 from nltk.tag.stanford import NERTagger
-from nameparser import HumanName
 
 data_dir ='../data/'
 
@@ -39,9 +38,12 @@ def parse_defendant(defendant):
 	Take a defendant (a single line comprised of many components)
 	and break down those components to bucket them
 	'''
+	#Regex to find shield & tax components, currently deprecated
 	shield_re ='((Shield|SHIELD|shield).*[0-9]{4})'
 	tax_re ='((tax|Tax|TAX).*[0-9]{6})'
-	rank =''
+	#Legal, Anti Terror, etc.
+	org =''
+	#Lt., Sgt., etc.
 	position =''
 	name =''
 	shield =''
@@ -51,7 +53,8 @@ def parse_defendant(defendant):
 	if (re.search('CITY OF NEW YORK', defendant)
 	or re.search('UNIDENTIFIED', defendant)
 	or re.search('JANE DOE', defendant)
-	or re.search('JOHN DOE', defendant)):
+	or re.search('JOHN DOE', defendant)
+	or defendant.startswith("the")):
 		return
 
 
@@ -111,22 +114,14 @@ def lookup_position(defendant=None):
 				return key, abb
 	return None
 
-def nameTagger(component):
-	name = HumanName(component)
-	print name
 
-'''def classify_names(name):
-	st = NERTagger('stanford-ner/all.3class.distsim.crf.ser.gz', 'stanford-ner/stanford-ner.jar')
-	text = """YOUR TEXT GOES HERE"""
-
+def classify_names(text):
 	for sent in nltk.sent_tokenize(text):
-	    tokens = nltk.tokenize.word_tokenize(sent)
-	    tags = st.tag(tokens)
-	    for tag in tags:
-	        if tag[1]=='PERSON': print tag'''
+		for chunk in nltk.ne_chunk(nltk.pos_tag(nltk.word_tokenize(sent))):
+			if hasattr(chunk, 'node'):
+				print chunk.node, ' '.join(c[0] for c in chunk.leaves())
 
 if __name__ =='__main__':
-    #read_files()
+    read_files()
     #lookup_position('NYPD OFFICER JOHN MARTINEZ')
-    nameTagger('JOHN MARTINEZ')
 
