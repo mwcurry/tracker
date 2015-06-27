@@ -1,3 +1,8 @@
+"""
+Script to convert the wikipedia list of 
+NYPD positions to a dictionary for later use
+"""
+
 import pprint
 
 s = '''	Chief of Department	
