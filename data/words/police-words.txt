@@ -1,0 +1,26 @@
+Abuse, Academy, Accessory, Accidental, Accomplice, Accord, Accused, Action, Administer, Adopt, Affect, Affidavit, Against, Agency, Agent, Agreement, Alias, Alibi, Alienate, Appeal, Appoint, Appraisal, Armed, Arraignment, Arrest, Arson, Aspect, Assault, Assignment, Assistance, Attachment, Attitude, Attorney, Authority, Authorize, Autopsy
+Backup, Badge, Bail, Ballistics, Bankruptcy, Bargain, Basis, Battery, Beat, Behavior, Belief, Blackmail, Bloodstain, Bobby, Bomb squad, Bond, Branch, Breach, Bribery, Brutal, Burden, Burglary
+Capability, Captain, Capture, Career, Case, Cease fire, Challenge, Character, Charges, Cheat, Citizen, Civil, Claim, Code, Cold case, Collusion, Commission, Commit, Common-law, Community property, Community service, Complication, Conduct, Confession, Consent, Consideration, Conspiracy, Constable, Constitution, Contempt, Convict, Cooperation, Cop, Coroner, Corruption, Counterfeit, Court, Credit theft, Crime, Criminal, Criminal justice system, Criminology
+Damage, Danger, Dangerous, Deal, Dealings, Decision, Dedication, Deed, Defendant, Defense, Deliberate, Delinquency, Democratic, Denial, Department, Deputy, Details, Detain, Detection, Detective, Determination, Deviant, Direct, Discovery, Disobedience, Dispatch, Disregard, District attorney, Documentation, Documents, Drugs, Duty
+Educate, Education, Effect, Embezzle, Emphasis, Enable, Encumber, Enforce, Entail, Equality, Equipment, Ethical, Eviction, Evidence, Examinations, Examine, Execute, Experience, Expert, Extort, Extradition, Extreme
+Failure, Fairness, Fake, Family, FBI, Fear, Federal, Felony, Fight, Fine, Fingerprint, Follow-up, Footprints, Force, Forgery, Formal charge, Fraud, Freedom, Friends, Full-scale, Fundamental
+Gangs, Government, Grand theft, Guarantee, Guard, Guilty, Gun
+Handle, Harmful, Helicopter, Helpful, Hiding, High-powered rifle, Hijack, Hire, Homicide, Honesty, Honor, Hostage, Hunch
+Identity theft, Illegal, Immoral, Impeach, Imprison, Inappropriate, Incompetent, Indictment, Influence, Informant, Information, Initiative, Injury, Innocent, Inquest, Intelligence, Interests, Interference, INTERPOL, Interpretation, Interstate, Intuition, Investigate, Investigation, Irregular, Issue
+Jail, John Doe, Joy, Judge, Judgment, Judicial, Jury, Justice, Juvenile
+Kidnapping, Kin
+Laboratory, Larceny, Law, Lawfully, Lawsuit, Lawyer, Lease, Legacy, Legal, Libel, Liberty, License, Lie detector, Lien, Lieutenant, Limits, Long hours, Lynch
+Mace, Maintain, Majority, Malice, Malpractice, Manslaughter, Mayhem, Metal detector, Minority, Misdemeanor, Mission, Moratorium, Motorist, Murder
+Nasty, Negligent, Negotiable, Negotiate, Neighborhood, Notation, Notification, Nuisance
+Oath, Obedience, Obey, Obligation, Offender, Offense, Officer, Official, Opinion, Opportunity, Order, Organize, Ownership
+Paperwork, Partner with, Partnership, Patrol, Pedestrian, Penalize, Penalty, Perjury, Perpetrator, Persistence, Petition, Petty, Phony, Plainclothes officer, Plead, Police, Police academy, Power, Precedent, Prevention, Previous, Principle, Prior, Prison, Private, Probable cause, Probation officer, Problems, Procedure, Professional, Proof, Property, Prosecutor, Protection, Provision, Public, Punishment
+Qualification, Quality, Quantify, Quantity, Quarrel, Quell, Quest, Question, Quickly, Quirk
+Radar, Rank, Reason, Record, Recruit, Redress, Reduction, Referendum, Refute, Regulations, Reinforcement, Reject, Repeal, Reported, Reports, Reprobate, Reputation, Resist, Responsibility, Restraining order, Restriction, Rights, Riot, Robbery, Rogue, Rules, Rulings
+Sabotage, Safeguard, Safety, Sanction, Savvy, Scene, Scheme, Sealed record, Search and rescue team, Search warrant, Secret, Seize, Selection, Sentence, Sergeant, Seriousness, Services, Sheriff, Shyster, Sighting, Situation, Skillful, Slander, Slaying, Smuggling, Solution, Solve, Sorrow, Squad, Statute, Statute of limitation, Stealing, Stipulation, Stolen, Subdue, Subpoena, Succor, Summons, Suppress, Surveillance, Suspect, Suspected, Suspicion, Suspicious, Sworn, System
+Tactic, Tantamount, Technique, Testify, Testimony, Threaten, Threatening, Thwart, Traffic, Transaction, Transfer, Treatment, Trespass, Trial, Trooper, Trust
+Unacceptable, Unauthorized, Unclaimed, Unconstitutional, Undercover, Underpaid, Unintentional, Unique, Unit, Unjust, Unknown, Unlawful, Unlikely, Uphold
+Vagrancy, Vandalism, Veteran, Victim, Victimize, Vigilante, Violate, Violation, Volume, Volunteer
+Wanted poster, Ward, Warrant, Weapon, Will, Wiretap, Wisdom, Witness, Writ, Wrong
+X-ray
+Yell, Yelp, Youth
+Zeal, Zealous
